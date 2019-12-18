@@ -1,0 +1,17 @@
+/build
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea
+.DS_Store
+/build
+/captures
+/buildCacheDir
+/buildCacheDir.lock
+.idea/
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+library/
